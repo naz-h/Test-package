@@ -1,4 +1,4 @@
-Package: MyPackage1
+Package: knapsackR
 Type: Package
 Title: Solving knapsack problem.
 Version: 0.1.0
